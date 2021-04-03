@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{goodfellow2016deep}
+Ian Goodfellow, Yoshua Bengio, Aaron Courville, and Yoshua Bengio.
+\newblock {\em Deep learning}, volume~1.
+\newblock MIT press Cambridge, 2016.
+
+\bibitem{bishop2006pattern}
+Christopher~M Bishop.
+\newblock {\em Pattern recognition and machine learning}.
+\newblock springer, 2006.
+
+\end{thebibliography}
